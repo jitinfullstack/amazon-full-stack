@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Demo Amazon React App
+
+https://new-clone-5476e.web.app/
+
+# Getting Started with Create React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
