@@ -1,4 +1,4 @@
-# Demo Amazon React App
+# Demo 
 
 https://new-clone-5476e.web.app/
 
