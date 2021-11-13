@@ -2,6 +2,16 @@
 
 https://new-clone-5476e.web.app/
 
+## Screenshots
+
+Home Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone.png
+
+Cart Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Cart.png
+
+Checkout Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Checkout.png
+
+Your Order Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Your%20Order.png
+
 # Getting Started with Create React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
