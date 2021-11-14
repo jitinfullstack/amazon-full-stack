@@ -4,13 +4,13 @@ https://new-clone-5476e.web.app/
 
 ## Screenshots
 
-Home Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone.png
+![React-Amazon-Clone](https://user-images.githubusercontent.com/93995641/141672241-0386fc5c-1b3c-48e6-bf99-f8dab73756ca.png)
 
-Cart Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Cart.png
+![React-Amazon-Clone Cart](https://user-images.githubusercontent.com/93995641/141672244-29d0bc39-43f2-4ada-9249-642d3a8acff7.png)
 
-Checkout Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Checkout.png
+![React-Amazon-Clone Checkout](https://user-images.githubusercontent.com/93995641/141672248-d6eb2f52-6cc5-4246-83e6-117d82d1cd9e.png)
 
-Your Order Page: https://github.com/jitinfullstack/amazon-full-stack/blob/master/React-Amazon-Clone%20Your%20Order.png
+![React-Amazon-Clone Your Order](https://user-images.githubusercontent.com/93995641/141672251-39ee500e-faea-464a-bba6-d2b15a00d8e7.png)
 
 # Getting Started with Create React
 
